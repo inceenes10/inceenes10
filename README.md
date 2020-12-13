@@ -8,5 +8,5 @@ I am Enes ince from Istanbul Technical University in the Department of Electrica
 \
  🐝 🐝 🐝 🐝 🐝 🐝 🐝 🐝
 
-- :computer: C | C++ | Javascript | Python
-- Web Developer
+- :alien: C | C++ | Javascript | Python
+- :computer: Web Developer
