@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+\
 🐝 🐝 🐝 🐝 🐝 🐝 🐝 🐝
 \
 \
@@ -7,6 +7,7 @@ I am Enes ince from Istanbul Technical University in the Department of Electrica
 \
 \
  🐝 🐝 🐝 🐝 🐝 🐝 🐝 🐝
+ \
 
 - C | C++ | Javascript | Python
 - Web Developer
