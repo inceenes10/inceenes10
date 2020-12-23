@@ -2,6 +2,10 @@
 
 "I am always eager to learn doing what I can't"
 
-- :alien: C | C++ | Javascript | Python
-- :computer: :brain: Web Development | AI | Data Science
+- 🤯 Deep Learning | Data Science
+- 💻 Frontend | Backend
+- 👽 C++ | Python | Javascript
+- 🧠 Linux | Docker | Amazon Web Services
+- 🔌 ITU Electrical Engineering | Smart Grids
+- 🤑 Investor
 - :e-mail: dev@ince.guru
