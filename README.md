@@ -5,7 +5,7 @@
 - 🤯 Deep Learning | Data Science
 - 💻 Frontend | Backend
 - 👽 C++ | Python | Javascript | Golang
-- 🧠 Linux | Docker | Amazon Web Services
+- 🧠 Linux | Docker | Kubernetes | Amazon Web Services
 - 🔌 ITU Electrical Engineering | Smart Grids
 - 🤑 Investor
 - :e-mail: inceenes10@gmail.com
