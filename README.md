@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">A passionate frontend, backend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Kubernetes and Golang**
+- 🌱 I’m currently learning **Kubernetes, Svelte and Golang**
 
 - 💬 Ask me about **Frontend, Backend, DevOps, ML, DL, AWS**
 
