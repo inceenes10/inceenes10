@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Kubernetes and Golang**
 
-- 💬 Ask me about **React, Node.js, Python**
+- 💬 Ask me about **Frontend, Backend, DevOps, ML, DL**
 
-- 📫 How to reach me **inceenes10@gmail.com**
+- 📫 Reach me **inceenes10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
