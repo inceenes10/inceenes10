@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kubernetes and Golang**
 
-- 💬 Ask me about **Frontend, Backend, DevOps, ML, DL**
+- 💬 Ask me about **Frontend, Backend, DevOps, ML, DL, AWS**
 
 - 📫 Reach me **inceenes10@gmail.com**
 
