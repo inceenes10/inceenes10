@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
-<h3 align="center">A passionate frontend, backend developer from Turkey</h3>
+<h3 align="center">A passionate Electrical Engineering Student at Istanbul Technical University</h3>
 
 - 🌱 I’m currently learning **Kubernetes, Svelte and Golang**
 
