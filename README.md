@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">A passionate Electrical Engineering Student at Istanbul Technical University</h3>
 
-- 🌱 I’m currently learning **Kubernetes, Svelte and Golang**
+- 🌱 I’m currently learning **Istio, Svelte and Golang**
 
 - 💬 Ask me about **Frontend, Backend, DevOps, ML, DL, AWS**
 
