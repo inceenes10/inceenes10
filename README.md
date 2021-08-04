@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Istio, Terraform, Svelte and Golang**
 
-- 🎯 I'm currently studying for **AWS Certified Solution Architect Associate** and **AWS Certified Developer Associate** exams
+- 🎯 I'm currently studying **AWS Certified Solution Architect Associate** and **AWS Certified Developer Associate** exams
 
 - 💬 Ask me about **Frontend, Backend, DevOps, ML, DL, AWS**
 
