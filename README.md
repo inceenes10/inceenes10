@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">As Sustable's CTO, I blend management and technology to drive innovative sustainable solutions. With expertise in Management Engineering, I focus on scalability, security, and distributed systems. My aim is to engineer tech solutions that meet current needs while foreseeing and tackling future challenges. With attention to detail and a commitment to excellence, I steer our tech initiatives toward sustainability and efficiency, guiding our progress at every turn.</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
